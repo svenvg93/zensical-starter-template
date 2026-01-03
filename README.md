@@ -1,4 +1,4 @@
-# 📦 Zensical Template
+# 📦 Zensical Starter Template
 
 This is a ready-to-use Zensical template designed for quick deployment using **Cloudflare Pages** or **Cloudflare Workers**, with built-in support for **Dependabot** and **Dev Containers**.
 
