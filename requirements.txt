@@ -4,7 +4,7 @@ gitdb==4.0.12
 GitPython==3.1.46
 Markdown==3.10
 Pygments==2.19.2
-pymdown-extensions==10.20
+pymdown-extensions==10.20.1
 PyYAML==6.0.3
 setuptools==78.1.1
 smmap==5.0.2
