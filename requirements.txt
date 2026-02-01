@@ -2,7 +2,7 @@ click==8.3.1
 deepmerge==2.0
 gitdb==4.0.12
 GitPython==3.1.46
-Markdown==3.10
+Markdown==3.10.1
 Pygments==2.19.2
 pymdown-extensions==10.20
 PyYAML==6.0.3
